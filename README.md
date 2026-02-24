@@ -14,20 +14,30 @@ I am a Google Project Management Certified professional and CAPM candidate, focu
 
 ## Featured Project
 
-### Online Booking System Implementation
+### Sauce & Spoon Tablet Rollout – Academic Project
 
 Role: Project Manager
-Type: Google Project Management Capstone Project
+Program: Google Project Management Certificate
+Type: Academic Project (Capstone)
+Year: 2026
+
+This project was developed as part of the Google Project Management Certificate. It demonstrates my ability to create a complete Project Charter, define scope, manage budget, and align business goals with operational execution, and it demonstrates my business-oriented mindset and my ability to manage projects that directly support operational efficiency, revenue growth, and customer experience improvement.
+
+
 
 This project includes:
 
-* Project Charter
+* Project Charter Development
+* Scope Definition and Management
+* Budget Planning and Cost Awareness 
 * Work Breakdown Structure
-* Risk Register
-* Communication Plan
+* Risk Identification and Mitigation 
+* Stakeholeder Communication
+* Business-Oriented Project Planning 
 * Project Timeline
+* Alignment of Project Goals with Organizational Strategy
 
-This project demonstrates my ability to manage projects from initiation to completion, applying structured methodologies and business-focused thinking.
+This portfolio reflects my readiness to contribute to real-world project environments as a Junior Project Manager.
 
 ## Professional Goal
 
