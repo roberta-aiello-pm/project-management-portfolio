@@ -27,7 +27,7 @@ This project was developed as part of the Google Project Management Certificate.
 
 This project includes:
 
-* Project Charter Development
+* Project Charter Development ([View Project Charter](./Google-PM-Capstone-Project-Charter.pdf))
 * Scope Definition and Management
 * Budget Planning and Cost Awareness 
 * Work Breakdown Structure
@@ -35,7 +35,7 @@ This project includes:
 * Stakeholeder Communication
 * Business-Oriented Project Planning 
 * Project Timeline
-* Alignment of Project Goals with Organizational Strategy
+* Alignment of Project Goals with Organizational Strategy 
 
 This portfolio reflects my readiness to contribute to real-world project environments as a Junior Project Manager.
 
