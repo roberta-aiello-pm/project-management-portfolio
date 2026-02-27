@@ -1,0 +1,29 @@
+This Risk Register was devolped as a part of the Online Booking System project to identify, assess, and manage potential risks that could impact project success.
+The Register includes risk description, probability, impact, mitigation strategy, and ownership
+# Risk Register – Online Booking System Project
+
+| ID | Risk Description | Probability | Impact | Priority | Mitigation Strategy | Owner | Status |
+|----|------------------|-------------|--------|----------|---------------------|-------|--------|
+| R1 | Delay in software development | Medium | High | High | Weekly progress tracking and milestone reviews | Project Coordinator | Open |
+| R2 | Budget overrun | Low | High | Medium | Monitor budget and approve changes before execution | Project Manager | Open |
+| R3 | Miscommunication between stakeholders | Medium | Medium | Medium | Regular status meetings and communication plan | Project Coordinator | Open |
+| R4 | Technical implementation issues | Low | High | Medium | Technical testing and validation before release | Technical Team | Open |
+| R5 | Resource availability issues | Medium | Medium | Medium | Confirm resource allocation in advance | Project Coordinator | Open |
+
+## Risk Scoring Criteria
+
+Probability Levels:
+Low = unlikely to occur  
+Medium = possible occurrence  
+High = likely to occur  
+
+Impact Levels:
+Low = minor impact on project  
+Medium = moderate impact  
+High = major impact affecting timeline or delivery
+
+---
+
+Prepared by: Roberta Aiello  
+Role: Project Coordinator  
+Program: Google Project Management Professional Certificate
