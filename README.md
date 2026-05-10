@@ -1,7 +1,7 @@
 # Project Management Portfolio – Roberta Aiello
 **Junior PMO | Project Coordinator | Google PM Certificate (Jan 2026)**
 
-📧 aiellrob2020@gmail.com
+📧 aiellorob2020@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/roberta-aiello-8096311b4)
 🏅 [Credly – Verified Certifications](https://credly.com/users/roberta-aiello)
 
