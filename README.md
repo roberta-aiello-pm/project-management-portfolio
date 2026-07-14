@@ -77,7 +77,7 @@ All documents reflect hands-on application of Agile and Waterfall methodologies 
 
 ## Power BI — Wedding Budget Dashboard
 
-![Power BI Dashboard](./Power%20Bi%20Dashboard)
+![Power BI Dashboard](./Wedding-Project/Power%20Bi%20Dashboard.jpeg)
 
 Interactive dashboard built with Power BI Desktop: Power Query data cleaning, DAX aggregations, and 3 visuals (spend by category, payment status breakdown, remaining balance).
 
