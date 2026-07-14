@@ -75,6 +75,12 @@ All documents reflect hands-on application of Agile and Waterfall methodologies 
 
 ---
 
+## Power BI — Wedding Budget Dashboard
+
+![Power BI Dashboard](./Power%20Bi%20Dashboard.jpeg)
+
+Interactive dashboard built with Power BI Desktop: Power Query data cleaning, DAX aggregations, and 3 visuals (spend by category, payment status breakdown, remaining balance).
+
 ## Certifications
 - 🏅 Google Project Management Certificate – January 2026 (Coursera/Google)
 - 🏅 Scrum Foundation Professional Certificate – 2025 (SCRUMstudy)
