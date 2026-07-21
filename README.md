@@ -98,5 +98,5 @@ Interactive dashboard built with Power BI Desktop: Power Query data cleaning, DA
 ---
 
 *Prepared by: Roberta Aiello | Role: Junior PMO & Project Coordinator*
-*Portfolio last updated: March 2026*
+*Portfolio last updated: July 2026*
 
