@@ -82,6 +82,14 @@ All documents reflect hands-on application of Agile and Waterfall methodologies 
 Interactive dashboard built with Power BI Desktop: Power Query data cleaning, DAX aggregations, and 3 visuals (spend by category, payment status breakdown, remaining balance).
 
 ## Certifications
+
+<div class='academy-badge'>
+<a href='https://app-na2.hubspot.com/academy/achievements/nqlwrlx9/en/1/roberta-aiello/hubspot-sales-hub-software-certified' title='HubSpot Sales Hub Software Certified'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/0c5b3ef09a664346a03822ded60b93c2.png' width="300" />
+</a>
+</div>
+
+- HubSpot Sales Hub Software Certified — Jul 2026
 - 🏅 Google Project Management Certificate – January 2026 (Coursera/Google)
 - 🏅 Scrum Foundation Professional Certificate – 2025 (SCRUMstudy)
 - 📚 CAPM – Certified Associate in Project Management (in progress, PMI)
