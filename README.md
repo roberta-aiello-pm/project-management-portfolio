@@ -77,7 +77,7 @@ All documents reflect hands-on application of Agile and Waterfall methodologies 
 
 ## Power BI — Wedding Budget Dashboard
 
-![Power BI Dashboard](./Wedding-Project/Power-BI-Dashboard-SQL-DAX.jpeg)
+![Power BI Dashboard](./Wedding-Project/Screenshot%202026-08-15%20131200.png)
 
 Interactive dashboard built on a SQL Server backend: raw budget data modeled and queried in T-SQL, transformed in Power Query (conditional/calculated columns for payment status), and 3 DAX measures (Total Budget, Total Paid, Remaining Balance) driving 3 visuals — spend by category, payment status breakdown, remaining balance.
 
