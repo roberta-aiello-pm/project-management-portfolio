@@ -6,9 +6,9 @@
 
 ## Project Overview
 Full project management of an international event — 
-15+ vendors, multi-stakeholder coordination, $30,000 
+15+ vendors, multi-stakeholder coordination, Five Figures
 budget managed from planning to delivery.
 
 ## Deliverables in this folder
-- Budget Tracker (Target vs Actual — $30,000)
+- Budget Tracker (Target vs Actual)
 - Communication Plan (12 stakeholders)
